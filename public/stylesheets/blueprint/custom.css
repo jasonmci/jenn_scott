@@ -1,0 +1,93 @@
+.container {
+  width: 90%;
+  background: #ffff00
+}
+
+#leftsection {
+  float: left;
+  width: 25%;
+  background: #00ffff;
+}
+
+#centersection {
+    float: left;
+    background: white;
+    width: 50%
+}
+
+#rightsection {
+  float: right;
+  width: 25%;
+  background: #99ff99
+}
+body {
+  background: #ff9900;
+}
+
+header {
+  padding-top: 18px;
+}
+
+section {
+  margin-top: 1em;
+  font-size: 120%;
+  padding: 20px;
+  background: #fff;
+}
+
+section h1 {
+  font-size: 200%;
+}
+
+/* Links */
+
+a {
+  color: #09c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #069;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #069;
+}
+
+/* Navigation */
+
+nav {
+  float: none;
+}
+
+nav {
+  background-color: #ffff00;
+  padding: 0 1em;
+  white-space: nowrap;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0.0em 0;
+}
+
+nav ul li a {
+  padding: 0 5px;
+  font-weight: bold;
+}
+
+nav ul li a:visited {
+  color: #666600;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
