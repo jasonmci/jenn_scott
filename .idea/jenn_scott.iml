@@ -103,6 +103,11 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] watir (v1.8.0, C:/Ruby187/lib/ruby/gems/1.8/gems/watir-1.8.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] firewatir (v1.8.0, C:/Ruby187/lib/ruby/gems/1.8/gems/firewatir-1.8.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] commonwatir (v1.8.0, C:/Ruby187/lib/ruby/gems/1.8/gems/commonwatir-1.8.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] watir (v1.9.0, C:/Ruby187/lib/ruby/gems/1.8/gems/watir-1.9.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rautomation (v0.5.1, C:/Ruby187/lib/ruby/gems/1.8/gems/rautomation-0.5.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] commonwatir (v1.9.0, C:/Ruby187/lib/ruby/gems/1.8/gems/commonwatir-1.9.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] firewatir (v1.9.0, C:/Ruby187/lib/ruby/gems/1.8/gems/firewatir-1.9.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] ffi (v1.0.9, C:/Ruby187/lib/ruby/gems/1.8/gems/ffi-1.0.9-x86-mingw32)" level="application" />
   </component>
 </module>
 
