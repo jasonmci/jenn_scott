@@ -11,8 +11,4 @@ class PagesController < ApplicationController
     @title = "About"
   end
 
-  def links
-    @title = "Links"
-  end
-
 end
