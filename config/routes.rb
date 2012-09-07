@@ -2,7 +2,7 @@ JennScott::Application.routes.draw do
   match '/home',  :to => 'pages#home'
   match '/about', :to => 'pages#about'
   match '/links', :to => 'pages#links'
-
+  match '/services', :to => 'pages#services'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
